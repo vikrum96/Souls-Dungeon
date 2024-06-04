@@ -1,0 +1,4 @@
+repository "Souls Dungeon@Chroternal@cloud"
+  path "/"
+    br "/main"
+    co "/main"
